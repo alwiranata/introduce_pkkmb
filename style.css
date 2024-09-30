@@ -11,33 +11,33 @@
     }
     .backdrop-blur {
       backdrop-filter: blur(10px);
-      background-color: rgba(255, 255, 255, 0.9); /* Slightly more opaque for better visibility */
+      background-color: rgba(255, 255, 255, 0.9); 
     }
     .btn-blue {
-      background-color: #3B82F6; /* Sky blue */
+      background-color: #3B82F6; 
     }
     .btn-blue:hover {
-      background-color: #2563EB; /* Darker blue */
+      background-color: #2563EB; 
     }
     .result-card {
       background-color: white;
       border-radius: 1rem;
       box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
-      padding: 3rem; /* Increased padding */
+      padding: 3rem; 
       text-align: left;
-      max-width: 800px; /* Increased max width */
+      max-width: 800px; 
       width: 100%;
     }
     .result-title {
-      color: #3B82F6; /* Blue for emphasis */
-      font-size: 2.5rem; /* Increased font size */
+      color: #3B82F6;
+      font-size: 2.5rem; 
     }
     .result-subtitle {
-      color: #6B7280; /* Gray for subtitles */
-      font-size: 1.5rem; /* Increased font size */
+      color: #6B7280;
+      font-size: 1.5rem; 
     }
     .result-row {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 1rem; /* Increased margin for better spacing */
+      margin-bottom: 1rem; 
     }
